@@ -371,6 +371,7 @@ a img.aligncenter {
 
 .megamenu .dropdown-menu {
     left: auto;
+    right: auto;
 }
 
 .megamenu .megamenu-content {
@@ -628,7 +629,7 @@ body.realestate_version .header_style_01 .navbar-right > li.search-option form b
     overflow: hidden;
     position: relative;
     background-position: center center;
-    vertical-align: sub 2px;	
+   
     width: 100%;
     z-index: 2;
 } 
@@ -1101,7 +1102,7 @@ body.realestate_version .header_style_01 .navbar-right > li.search-option form b
 -------------------------------------------------------------------*/
 
 .about-box{
-	padding: 70px 0px;
+	padding: 60px 0px;
 }
 
 .single-feature {
@@ -1418,7 +1419,7 @@ body.realestate_version .header_style_01 .navbar-right > li.search-option form b
 
 .post-media {
     position: relative;
-	border: 8px solid #a8cf45;	
+	border: 8px solid #0b5e95;	
 }
 
 .post-media img {
